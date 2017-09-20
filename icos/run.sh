@@ -1,0 +1,1 @@
+scrapy crawl coinschedule -o items.json

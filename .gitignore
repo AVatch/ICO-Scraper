@@ -1,0 +1,6 @@
+.DS_Store
+items.json
+*.pyc
+
+.vscode/
+env/
